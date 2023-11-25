@@ -3,11 +3,17 @@ Final Project Proposal
   Name: Mesfin Agachew Woldekidan 
 
  Format Selected: Third format (data analysis that uses wrangling and modeling)
+ 
 Project Title: Analysing the magnitude and trend of Emergency disease using PHEM data
+
 Project proposal workflow 
+
 Objectives:   The goal of this project is to analyze and compare the trend and the magnitude of public health emergency cases in all regions of Ethiopia Using PHEM weekly data. Under this project, performing data wrangling (identification of problems in the data, cleaning ….) data analysis and data virtualization will be done. 
+
 Packages: data table or dplyr, and ggplot2 will be used. 
+
 Software use:  R software will be used for this project. 
+
 Timeline for the project 
 
 December 1/2023- Submit the proposal. 
